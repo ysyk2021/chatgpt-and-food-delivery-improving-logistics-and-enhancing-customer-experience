@@ -1,5 +1,3 @@
-Chapter 1: Basics of Food Delivery
-==================================
 
 Food delivery has become an integral part of modern life, providing convenience and accessibility for customers while creating new opportunities for businesses. In this chapter, we will explore the basics of food delivery, including its definition, types of food delivery services, and its importance in modern times.
 

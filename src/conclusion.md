@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we explored the use of ChatGPT in food delivery logistics and its potential to enhance customer experience. We discussed various aspects of the technology and how it can be leveraged to improve logistics and customer satisfaction.
 

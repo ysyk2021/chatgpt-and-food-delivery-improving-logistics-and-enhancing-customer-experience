@@ -1,5 +1,3 @@
-Potential Advancements in Food Delivery with ChatGPT
-=====================================================================================================
 
 The food delivery industry is constantly evolving, and the integration of ChatGPT has the potential to revolutionize the way food delivery services operate. In this chapter, we will explore the potential advancements in food delivery with ChatGPT.
 

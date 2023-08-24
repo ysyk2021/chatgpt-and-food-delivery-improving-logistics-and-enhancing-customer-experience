@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential for ChatGPT to improve logistics and enhance customer experience in the food delivery industry. We have covered several key points, including:
 

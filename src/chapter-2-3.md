@@ -1,5 +1,3 @@
-Importance of Food Delivery in Modern Times
-===============================================================================
 
 Food delivery has become an essential part of modern life, providing convenience and accessibility for customers while creating new opportunities for businesses. In this chapter, we will explore the basics of food delivery and the importance of food delivery in modern times.
 

@@ -1,5 +1,3 @@
-Definition of Food Delivery
-===============================================================
 
 Food delivery is the process of delivering prepared meals from a restaurant or food service provider to a customer's location. This can be done through various means, including delivery drivers, third-party delivery services, and self-delivery options. The process typically involves several steps, including order taking, food preparation, packaging, delivery, and payment processing.
 

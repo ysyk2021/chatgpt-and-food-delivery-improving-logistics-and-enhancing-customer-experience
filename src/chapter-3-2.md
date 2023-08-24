@@ -1,5 +1,3 @@
-Common Challenges in Food Delivery
-==========================================================================
 
 Food delivery is a complex operation that involves several stakeholders and processes. Several challenges can arise throughout the process, impacting food delivery operations and customer experience. In this chapter, we will explore some of the common challenges faced by food delivery services.
 

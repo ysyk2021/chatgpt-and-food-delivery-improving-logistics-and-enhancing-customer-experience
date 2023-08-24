@@ -1,5 +1,3 @@
-Types of Food Delivery Services
-===================================================================
 
 Food delivery has become an integral part of modern life, offering convenience and accessibility for customers while creating new opportunities for businesses. There are several types of food delivery services available, including:
 

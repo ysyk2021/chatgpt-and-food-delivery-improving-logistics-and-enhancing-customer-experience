@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Food Delivery Logistics and Customer Experience
-===============================================================================================================================
 
 ChatGPT can provide valuable insights and enhance customer experience in food delivery services. However, implementing ChatGPT requires careful planning and execution. In this chapter, we will explore the steps to implement ChatGPT in food delivery logistics and customer experience.
 

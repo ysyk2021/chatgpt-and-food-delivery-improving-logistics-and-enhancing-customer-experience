@@ -1,5 +1,3 @@
-Chapter 6: Future of Food Delivery with ChatGPT
-===============================================
 
 ChatGPT has already shown significant potential for improving logistics and enhancing customer experience in food delivery services. In this chapter, we will explore the potential advancements in food delivery with ChatGPT, the impact it can have on the food delivery industry, and what the future might hold.
 

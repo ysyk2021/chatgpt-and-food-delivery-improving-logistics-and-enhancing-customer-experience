@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Food Delivery
-=======================================================
 
 Artificial intelligence (AI) and chatbots have the potential to transform the food delivery industry by improving logistics and enhancing customer experience. In this chapter, we will provide an introduction to AI and chatbots, explore how they can improve food delivery logistics and customer experience, and discuss the benefits of using AI and chatbots for food delivery services.
 

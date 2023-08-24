@@ -1,5 +1,3 @@
-Factors Affecting Food Delivery
-=======================================================================
 
 Food delivery is a complex process that involves several factors that can impact its success. In this chapter, we will explore the various factors that affect food delivery and how they can pose challenges to the industry.
 

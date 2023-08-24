@@ -1,5 +1,3 @@
-Impact of these challenges on food delivery operations and customer experience
-======================================================================================================================
 
 Food delivery is a complex operation that involves multiple stakeholders and processes. Several challenges can arise throughout the process, impacting food delivery operations and customer experience. In this chapter, we will explore some of the challenges faced by food delivery services and their impact.
 

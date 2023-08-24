@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Food Delivery
-======================================
 
 Food delivery is a complex process that involves multiple stakeholders and processes. Several factors can affect food delivery, leading to common challenges that impact food delivery operations and customer experience. In this chapter, we will explore the factors affecting food delivery, common challenges faced by food delivery services, and their impact.
 

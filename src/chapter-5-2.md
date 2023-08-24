@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful tool for analyzing data and generating insights in the food delivery industry. In this chapter, we will explore the features and capabilities of ChatGPT.
 

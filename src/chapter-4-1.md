@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-========================================================================================
 
 Artificial intelligence (AI) and chatbots are transforming the way we interact with technology, and their potential applications in the food delivery industry are significant. In this chapter, we will provide an introduction to AI and chatbots and explore their role in food delivery.
 
